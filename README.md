@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and react js
 - 💞️ I’m looking to collaborate on github and instagram
 - 📫 How to reach me lavanyalakkaraju1432@gmail.com
-- 😄 Pronouns: ...lavanya
+- 😄 Pronouns: ...Lavanya,Her,She
 - ⚡ Fun fact: ...
 
 <!---
